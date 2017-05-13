@@ -18,19 +18,19 @@
 
 1. [Acon Verb Conjugator](http://acon.baykal.be/) will conjugate all your verbs for you!
 2. al Kitaab Flashcards by Chapter
-  - [Lesson 1](https://quizlet.com/6002333/al-kitaab-i-chapter-1-flash-cards/)
-  - [Lesson 2](http://quizlet.com/6002366/al-kitaab-i-chapter-2-flash-cards/)
-  - [Lesson 3](http://quizlet.com/6002373/al-kitaab-i-chapter-3-flash-cards/)
-  - [Lesson 4](http://quizlet.com/6002386/al-kitaab-i-chapter-4-flash-cards/)
-  - [Lesson 5](http://quizlet.com/6002401/al-kitaab-i-chapter-5-flash-cards/)
-  - [Lesson 6](https://quizlet.com/6002404/al-kitaab-i-chapter-6-flash-cards/)
-  - [Lesson 7](http://quizlet.com/6002419/al-kitaab-i-chapter-7-flash-cards/)
-  - [Lesson 8](http://quizlet.com/6002439/al-kitaab-i-chapter-8-flash-cards/)
-  - [Lesson 9](http://quizlet.com/22840261/al-kitaab-3rd-edition-lesson-9-flash-cards/)
-  - [Lesson 10](http://quizlet.com/13939309/al-kitaab-part-1-chapter-10-flash-cards/)
-  - [Lesson 11](http://quizlet.com/16229411/al-kitaab-part-1-chapter-11-flash-cards/)
-  - [Lesson 12](http://quizlet.com/22591620/al-kitaab-chapter-12-flash-cards/)
-  - [Lesson 13](http://quizlet.com/13939332/al-kitaab-part-1-chapter-13-flash-cards/)
+    - [Lesson 1](https://quizlet.com/6002333/al-kitaab-i-chapter-1-flash-cards/)
+    - [Lesson 2](http://quizlet.com/6002366/al-kitaab-i-chapter-2-flash-cards/)
+    - [Lesson 3](http://quizlet.com/6002373/al-kitaab-i-chapter-3-flash-cards/)
+    - [Lesson 4](http://quizlet.com/6002386/al-kitaab-i-chapter-4-flash-cards/)
+    - [Lesson 5](http://quizlet.com/6002401/al-kitaab-i-chapter-5-flash-cards/)
+    - [Lesson 6](https://quizlet.com/6002404/al-kitaab-i-chapter-6-flash-cards/)
+    - [Lesson 7](http://quizlet.com/6002419/al-kitaab-i-chapter-7-flash-cards/)
+    - [Lesson 8](http://quizlet.com/6002439/al-kitaab-i-chapter-8-flash-cards/)
+    - [Lesson 9](http://quizlet.com/22840261/al-kitaab-3rd-edition-lesson-9-flash-cards/)
+    - [Lesson 10](http://quizlet.com/13939309/al-kitaab-part-1-chapter-10-flash-cards/)
+    - [Lesson 11](http://quizlet.com/16229411/al-kitaab-part-1-chapter-11-flash-cards/)
+    - [Lesson 12](http://quizlet.com/22591620/al-kitaab-chapter-12-flash-cards/)
+    - [Lesson 13](http://quizlet.com/13939332/al-kitaab-part-1-chapter-13-flash-cards/)
   
 ## Other Resources
 
