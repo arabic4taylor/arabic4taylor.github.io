@@ -38,6 +38,10 @@
 2. [al Kitaab](http://www.alkitab.com/) is a website where you can buy books in Arabic.
 3. [Euronews](http://arabic.euronews.com/) has more worldwide news in Arabic.
 
+## Jordanian!
+
+- [Alex's Trick](https://www.alexstrick.com/blog/everything-you-need-to-study-jordanian-arabic) will help you learn Jordanian Arabic fast!
+
 
 
 انا احبك اكثر من اي شئ! أنت حقا طفلي.
